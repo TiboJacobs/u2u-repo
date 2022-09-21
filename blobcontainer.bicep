@@ -1,3 +1,4 @@
+
 param mysaname string 
 
 resource sa 'Microsoft.Storage/storageAccounts@2021-09-01' existing = {
